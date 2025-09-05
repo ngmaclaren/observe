@@ -1,7 +1,6 @@
+[![DOI](https://zenodo.org/badge/1016703027.svg)](https://doi.org/10.5281/zenodo.17059540)
 
 This repository contains code to select optimized sentinel node sets which can closely approximate the state of all network nodes, as well as simulation and analysis code which produced the findings in our manuscript. See below for an example analysis.
-
-NB: As of 2024-12-19 this repository currently stores a lot of data. We expect to reduce the data usage in the near future.
 
 ## optNS 
 
